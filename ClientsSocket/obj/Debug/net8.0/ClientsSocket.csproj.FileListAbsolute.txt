@@ -1,0 +1,17 @@
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\ClientsSocket.exe
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\ClientsSocket.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\ClientsSocket.runtimeconfig.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\ClientsSocket.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\ClientsSocket.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\refint\ClientsSocket.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.genruntimeconfig.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ref\ClientsSocket.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsSocket.csproj.AssemblyReference.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\ClientsSocket\obj\Debug\net8.0\ClientsS.8944117F.Up2Date

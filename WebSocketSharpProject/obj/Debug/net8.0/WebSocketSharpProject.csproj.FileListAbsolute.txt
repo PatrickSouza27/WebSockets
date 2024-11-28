@@ -1,0 +1,17 @@
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\WebSocketSharpProject.exe
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\WebSocketSharpProject.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\WebSocketSharpProject.runtimeconfig.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\WebSocketSharpProject.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\WebSocketSharpProject.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\refint\WebSocketSharpProject.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.genruntimeconfig.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\ref\WebSocketSharpProject.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.csproj.AssemblyReference.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocke.D199604C.Up2Date

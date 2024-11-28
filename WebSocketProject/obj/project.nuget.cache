@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5mb+NycAKA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PatrickSouza\\Desktop\\Courses\\Youtube\\WebSocketProject\\WebSocketProject\\WebSocketProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PatrickSouza\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

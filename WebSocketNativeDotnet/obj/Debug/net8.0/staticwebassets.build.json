@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NKiCiuHIEKUJczjh1AEplxDBNRrHxobEFWUthPQ9Zlo=",
+  "Source": "WebSocketNativeDotnet",
+  "BasePath": "_content/WebSocketNativeDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

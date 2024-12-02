@@ -15,3 +15,4 @@ C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpPro
 C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\bin\Debug\net8.0\websocket-sharp.dll
 C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.csproj.AssemblyReference.cache
 C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocke.D199604C.Up2Date
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\WebSocketProject\WebSocketSharpProject\obj\Debug\net8.0\WebSocketSharpProject.sourcelink.json

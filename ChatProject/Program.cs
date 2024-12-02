@@ -1,6 +1,7 @@
-var builder = WebApplication.CreateBuilder(args);
+using ChatProject.Sockets;var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+
+var socketSharp = new SocketSharp("ws://127.0.0.1", 7890);
 
 app.Run();

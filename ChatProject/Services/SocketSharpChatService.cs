@@ -1,6 +1,10 @@
 ﻿using System.Collections.Concurrent;
+using System.Net.WebSockets;
+using System.Security.Claims;
+using ChatProject.Entities;
 using WebSocketSharp;
 using WebSocketSharp.Server;
+using Newtonsoft.Json;
 
 namespace ChatProject.Services;
 
@@ -11,37 +15,44 @@ public class SocketSharpChatService : WebSocketBehavior
     protected override void OnOpen()
     {
         Console.WriteLine("Nova conexão estabelecida.");
+        Console.WriteLine("Context.QueryString conexao aberta por : " + Context.QueryString["name"]);
+        Console.WriteLine("Token With Headers : " + Context.Headers["Token"]);
+        
     }
 
+    /*
+     {
+        "message" : "Ola",
+        "user" : "edu",
+        "destino" : "patrick"
+        }
+     */
     protected override void OnMessage(MessageEventArgs e)
     {
-        var message = e.Data;
-
-        if (message.StartsWith("/setid:"))
+        var data = JsonConvert.DeserializeObject<DataChat>(e.Data);
+        
+        
+        
+        Console.WriteLine("Context.Host : " + Context.Host);
+        Console.WriteLine("Context.UserEndPoint : " + Context.UserEndPoint);
+        Console.WriteLine("Context.User : " + Context.User);
+        Console.WriteLine("Context.Origin : " + Context.Origin);
+        Console.WriteLine("Context.Headers : " + Context.Headers["Connection"]);
+        Console.WriteLine("Context.Headers.AllKeys : " + Context.Headers.AllKeys);
+        Console.WriteLine("Context.QueryString : " + Context.QueryString);
+        
+        Clients.TryAdd(data.User, this);
+        if(Clients.TryGetValue(data.Destino, out var client))
         {
-            _userId = message[7..].Trim();
-            if (!string.IsNullOrEmpty(_userId))
-            {
-                Clients[_userId] = this;
-                Send($"Seu ID foi definido como {_userId}");
-                Console.WriteLine($"ID {_userId} associado à conexão.");
-            }
+            client.Send("Mensagem recebida");
+            Send("mensagem enviada com sucesso");
         }
+        else
+        {
+            Send("usuario nao existe");
+        }
+        
+        
     }
-    
-    protected override void OnClose(CloseEventArgs e)
-    {
-        base.OnClose(e);
-    }
-    
-    // protected override void OnError(ErrorEventArgs e)
-    // {
-    //     base.OnError(e);
-    // }
-    //
-    // protected override void OnPing(PingEventArgs e)
-    // {
-    //     base.OnPing(e);
-    // }
     
 }
